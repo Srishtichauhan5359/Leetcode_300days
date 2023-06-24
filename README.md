@@ -1,2 +1,2 @@
 # Leetcode_300days
-leetcode 300 days challenge daily
+leetcode 300 days challenge daily.
